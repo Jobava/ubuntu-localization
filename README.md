@@ -1,2 +1,2 @@
 # ubuntu-localization
-Romanian localization for the Ubuntu project
+https://translations.launchpad.net/ubuntu/vivid/+lang/ro
